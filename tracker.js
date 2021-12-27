@@ -10,11 +10,14 @@ require("./abi/ERC20")
 let provider;
 let web3;
 
-let tokenWhiteList;
+let tokenSkipList;
+let tokenCache;
 
-async function initTokenWhiteList() {
-    tokenWhiteList = new Map();
-    tokenWhiteList.set("0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56", "BUSD");
+async function initTokenList() {
+    tokenSkipList = new Map();
+    tokenSkipList.set("0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56", "BUSD")
+
+    tokenCache = new Map();
 }
 
 async function getDataFilePath() {
@@ -47,8 +50,15 @@ async function blockTimer(timeout) {
 }
 
 async function getTokenSymbol(tokenAddr) {
+    let symbol = tokenCache.get(tokenAddr);
+    if (symbol != null) {
+        return symbol;
+    }
+
     let erc20 = new web3.eth.Contract(ABIS.ERC20, tokenAddr);
-    return await erc20.methods.symbol().call();
+    symbol = await erc20.methods.symbol().call();
+    tokenCache.set(tokenAddr, symbol);
+    return symbol;
 }
 
 async function postMsg(msgs) {
@@ -93,12 +103,12 @@ async function getBlockTimeFromBlockNumber(blocknumber) {
 
 
 let main = async() => {
-    await initTokenWhiteList();
+    await initTokenList();
 
     provider = new WalletProvider(config.account, config.targetUrl);
     web3 = new Web3(provider);
 
-    let erc20 = new web3.eth.Contract(ABIS.ERC20, config.account);
+    let erc20 = new web3.eth.Contract(ABIS.ERC20, "0x0000000000000000000000000000000000000000");
     let transferEvent = erc20._jsonInterface.find(
         o => o.name === 'Transfer' && o.type === 'event',
     );
@@ -106,12 +116,12 @@ let main = async() => {
     let buyTopics = [
         transferEvent.signature,
         null,
-        '0x000000000000000000000000' + config.account.substr(2)
+        config.traders
     ];
 
     let sellTopics = [
         transferEvent.signature,
-        '0x000000000000000000000000' + config.account.substr(2)
+        config.traders
     ];
 
     let currBnStep;
@@ -154,14 +164,14 @@ let main = async() => {
                 );
 
                 for (let i = 0; i < logs.length; i++) {
-                    let tokenSymbol = tokenWhiteList.get(logs[i].address);
+                    let tokenSymbol = tokenSkipList.get(logs[i].address);
                     if (tokenSymbol == null) {
                         let datetime = await getBlockTimeFromBlockNumber(logs[i].blockNumber);
                         blockTimeMap[logs[i].blockNumber] = datetime;
 
                         let log = web3.eth.abi.decodeLog(transferEvent.inputs, logs[i].data, logs[i].topics.slice(1));
                         tokenSymbol = await getTokenSymbol(logs[i].address);
-                        let msg = datetime + " 卖:" +  tokenSymbol + " (" + logs[i].address + ") " + web3.utils.fromWei(log.value) + "个";
+                        let msg = datetime + " " + log.from + " 卖:" +  tokenSymbol + " (" + logs[i].address + ") " + web3.utils.fromWei(log.value) + "个";
                         msgs.push(msg);
                         console.log(msg);
                         await writeOneEvent(dataFile, log);
@@ -179,7 +189,7 @@ let main = async() => {
                 );
 
                 for (let i = 0; i < logs.length; i++) {
-                    let tokenSymbol = tokenWhiteList.get(logs[i].address);
+                    let tokenSymbol = tokenSkipList.get(logs[i].address);
                     if (tokenSymbol == null) {
                         let datetime = blockTimeMap.get(logs[i].blockNumber);
                         if (datetime == null) {
@@ -189,7 +199,7 @@ let main = async() => {
 
                         let log = web3.eth.abi.decodeLog(transferEvent.inputs, logs[i].data, logs[i].topics.slice(1));
                         tokenSymbol = await getTokenSymbol(logs[i].address);
-                        let msg = datetime + " 买:" + tokenSymbol + " (" + logs[i].address + ") " + web3.utils.fromWei(log.value) + "个";
+                        let msg = datetime + " " + log.to + " 买:" + tokenSymbol + " (" + logs[i].address + ") " + web3.utils.fromWei(log.value) + "个";
                         msgs.push(msg);
                         console.log(msg);
                         await writeOneEvent(dataFile, log);
