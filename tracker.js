@@ -50,15 +50,17 @@ async function blockTimer(timeout) {
 }
 
 async function getTokenSymbol(tokenAddr) {
-    let symbol = tokenCache.get(tokenAddr);
-    if (symbol != null) {
-        return symbol;
+    let token = tokenCache.get(tokenAddr);
+    if (token != null) {
+        return token;
     }
 
     let erc20 = new web3.eth.Contract(ABIS.ERC20, tokenAddr);
-    symbol = await erc20.methods.symbol().call();
-    tokenCache.set(tokenAddr, symbol);
-    return symbol;
+    let symbol = await erc20.methods.symbol().call();
+    let decimals = await erc20.methods.decimals().call();
+    token = {"symbol": symbol, "decimals": decimals}
+    tokenCache.set(tokenAddr, token);
+    return token;
 }
 
 async function postMsg(msgs) {
@@ -132,11 +134,15 @@ let main = async() => {
     await initDataFile(dataFile);
 
     while (true) {
+        let now = Date.now();
+        fs.writeFileSync("dog.txt", now.toString());
+
         console.log("loop once");
         let currBn = await web3.eth.getBlockNumber();
         if (lastBn + 3 > currBn) {
-            console.log("sleep, wait 6 second");
-            await blockTimer(10*1000);
+            const sleepTime = 12;
+            console.log("sleep, wait", sleepTime, "second");
+            await blockTimer(sleepTime*1000);
             continue;
         }
 
@@ -170,8 +176,13 @@ let main = async() => {
                         blockTimeMap[logs[i].blockNumber] = datetime;
 
                         let log = web3.eth.abi.decodeLog(transferEvent.inputs, logs[i].data, logs[i].topics.slice(1));
-                        tokenSymbol = await getTokenSymbol(logs[i].address);
-                        let msg = datetime + " " + log.from + " 卖:" +  tokenSymbol + " (" + logs[i].address + ") " + web3.utils.fromWei(log.value) + "个";
+                        let token = await getTokenSymbol(logs[i].address);
+                        tokenSymbol = token.symbol;
+                        let amount = log.value;
+                        if (token.decimals < 18) {
+                            amount = amount*(10**(18-token.decimals));
+                        }
+                        let msg = datetime + " " + log.from + " 卖:" +  tokenSymbol + " ( https://poocoin.app/tokens/" + logs[i].address + " ) " + web3.utils.fromWei(amount) + "个";
                         msgs.push(msg);
                         console.log(msg);
                         await writeOneEvent(dataFile, log);
@@ -198,8 +209,13 @@ let main = async() => {
                         }
 
                         let log = web3.eth.abi.decodeLog(transferEvent.inputs, logs[i].data, logs[i].topics.slice(1));
-                        tokenSymbol = await getTokenSymbol(logs[i].address);
-                        let msg = datetime + " " + log.to + " 买:" + tokenSymbol + " (" + logs[i].address + ") " + web3.utils.fromWei(log.value) + "个";
+                        let token = await getTokenSymbol(logs[i].address);
+                        tokenSymbol = token.symbol;
+                        let amount = log.value;
+                        if (token.decimals < 18) {
+                            amount = amount*(10**(18-token.decimals));
+                        }
+                        let msg = datetime + " " + log.to + " 买:" + tokenSymbol + " ( https://poocoin.app/tokens/" + logs[i].address + " ) " + web3.utils.fromWei(amount) + "个";
                         msgs.push(msg);
                         console.log(msg);
                         await writeOneEvent(dataFile, log);

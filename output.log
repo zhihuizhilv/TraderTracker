@@ -1,0 +1,853 @@
+loop once
+lastBn 13856375 currBnStep 13856380
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856380 currBnStep 13856384
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856384 currBnStep 13856389
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856389 currBnStep 13856401
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 6 second
+------------------------------- WatchDog Start -------------------------------
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856401 currBnStep 13856405
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856405 currBnStep 13856410
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856410 currBnStep 13856415
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856415 currBnStep 13856420
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856420 currBnStep 13856425
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856425 currBnStep 13856429
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856429 currBnStep 13856434
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856434 currBnStep 13856439
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856439 currBnStep 13856443
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856443 currBnStep 13856448
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856448 currBnStep 13856453
+loop once end
+loop once
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856453 currBnStep 13856457
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856457 currBnStep 13856462
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856462 currBnStep 13856467
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856467 currBnStep 13856471
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856471 currBnStep 13856476
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856476 currBnStep 13856481
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856481 currBnStep 13856486
+loop once end
+loop once
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856486 currBnStep 13856491
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856491 currBnStep 13856495
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856495 currBnStep 13856500
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856500 currBnStep 13856504
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856504 currBnStep 13856509
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856509 currBnStep 13856514
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856514 currBnStep 13856519
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856519 currBnStep 13856523
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856523 currBnStep 13856528
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856528 currBnStep 13856533
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856533 currBnStep 13856538
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856538 currBnStep 13856542
+loop once end
+loop once
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+sleep, wait 6 second
+loop once
+lastBn 13856542 currBnStep 13856547
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856547 currBnStep 13856552
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856552 currBnStep 13856557
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856557 currBnStep 13856561
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856561 currBnStep 13856566
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856566 currBnStep 13856571
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856571 currBnStep 13856576
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856576 currBnStep 13856581
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856581 currBnStep 13856585
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856585 currBnStep 13856590
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 6 second
+ReferenceError: Util is not defined
+    at Timeout._onTimeout (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/WatchDog.js:11:21)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+loop once
+lastBn 13856590 currBnStep 13856595
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856595 currBnStep 13856600
+loop once end
+loop once
+sleep, wait 6 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856600 currBnStep 13856605
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+lastBn 13856605 currBnStep 13856609
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856609 currBnStep 13856614
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856614 currBnStep 13856619
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856619 currBnStep 13856623
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856623 currBnStep 13856628
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856628 currBnStep 13856632
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856632 currBnStep 13856638
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856638 currBnStep 13856642
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 6 second
+loop once
+lastBn 13856642 currBnStep 13856647
+loop once
+lastBn 13856642 currBnStep 13856742
+loop once end
+loop once
+lastBn 13856742 currBnStep 13856752
+loop once end
+loop once
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+sleep, wait 12 second
+loop once
+lastBn 13856752 currBnStep 13856811
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 12 second
+loop once
+lastBn 13856811 currBnStep 13856870
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 12 second
+loop once
+lastBn 13856870 currBnStep 13856922
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once end
+loop once
+sleep, wait 12 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13856922 currBnStep 13856927
+loop once end
+loop once
+sleep, wait 12 second
+loop once
+lastBn 13856927 currBnStep 13856975
+loop once end
+loop once
+sleep, wait 12 second
+loop once
+lastBn 13856975 currBnStep 13856980
+loop once end
+loop once
+sleep, wait 12 second
+loop once
+lastBn 13856980 currBnStep 13857004
+loop once end
+loop once
+sleep, wait 12 second
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+Error: header not found
+    at /home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:632675
+    at t.i.onreadystatechange (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:748948)
+    at t.e.dispatchEvent (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:1:142373)
+    at t._setReadyState (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:753708)
+    at t._onHttpResponseEnd (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756793)
+    at IncomingMessage.<anonymous> (/home/lzh/code/nodejs/github.com/zhihuizhilv/TraderTracker/node_modules/truffle-hdwallet-provider/dist/index.js:15:756051)
+    at IncomingMessage.emit (events.js:215:7)
+    at endReadableNT (_stream_readable.js:1184:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
+listenLog Error: Please pass numbers as strings or BN objects to avoid precision errors.
+error = 13872206 13872306
+loop once
+lastBn 13872206 currBnStep 13872306
