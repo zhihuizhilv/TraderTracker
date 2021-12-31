@@ -51,7 +51,7 @@ let main = async() => {
     }
 
     // 下注上涨
-    // await pancakePrediction.methods.betBull(currentEpoch).send({value:web3.utils.toWei('0.1', 'ether')});
+    // await pancakePrediction.methods.betBull(currentEpoch).send({from:provider.addresses[0], value:web3.utils.toWei('0.1', 'ether')});
 
 
     // 提取资金
