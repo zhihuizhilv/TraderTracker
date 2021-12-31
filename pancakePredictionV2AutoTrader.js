@@ -39,6 +39,8 @@ let main = async() => {
 
     // 等待开奖
     for(;;) {
+
+        await pancakePrediction.methods.claimabl(currentEpoch, provider.addresses[0]).call();
         let round = await pancakePrediction.methods.rounds(currentEpoch).call();
         if (round.oracleCalled) {
             break;
@@ -53,7 +55,7 @@ let main = async() => {
 
 
     // 提取资金
-    // await pancakePrediction.methods.claim([currentEpoch]).send();
+    // await pancakePrediction.methods.claim([currentEpoch]).send({from:provider.addresses[0]});
 }
 
 main();
